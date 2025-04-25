@@ -147,7 +147,7 @@ Dalam studi kasus ini, dilakukan perkiraan terhadap komponen jaringan serta kebu
  
     **Sketsa awal desain jaringan**
 
-    <img src = GedungA.png >
+    <img src = GedungA.jpeg >
 
     Gedung A memiliki struktur jaringan yang lebih kompleks karena mencakup lebih banyak departemen dan dilengkapi Server Farm.
     Detail strukturnya:
@@ -168,7 +168,7 @@ Dalam studi kasus ini, dilakukan perkiraan terhadap komponen jaringan serta kebu
 
         Server farm terdiri dari beberapa server yang terhubung melalui switch lalu ke router utama. Server-server ini menyediakan berbagai layanan seperti DHCP, DNS internal, file sharing, dan aplikasi internal lainnya. Akses ke server farm biasanya dibatasi melalui pengaturan ACL agar hanya departemen tertentu yang dapat mengaksesnya, seperti IT.
 
-    <img src = GedungB.png >
+    <img src = GedungB.jpeg >
 
     Diagram ini memperlihatkan struktur jaringan di Gedung B yang terdiri dari dua departemen utama: Departemen SDM dan Departemen Keuangan. Masing-masing departemen memiliki perangkat jaringan tersendiri, namun tetap terhubung melalui satu perangkat Main Router.
     Detail Strukturnya:
